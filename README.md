@@ -1,2 +1,9 @@
+Global Library Intelligence System is a modern desktop-based Library Management System developed using Python, Tkinter, and SQLite. The project is designed to efficiently manage book records and track their availability across multiple libraries using a structured relational database approach. It demonstrates the practical implementation of Database Management System (DBMS) concepts such as CRUD operations (Create, Read, Update, Delete), primary keys, foreign keys, and data filtering through a user-friendly graphical interface.
+
+The system provides an interactive dashboard that displays key statistics including total number of books, categories, and library records. Users can easily search books by title, view the complete book collection, and track the libraries where a particular book is available. The system also includes a category filter, allowing books to be organized into genres such as Fiction, Comics, Movie Books, Programming, Self Development, Indian Literature, Sci-Fi, and Classic literature.
+
+Administrators can efficiently manage the database using options to add new books, update existing records, delete unwanted entries, and store library availability information. The advanced search feature allows filtering using multiple fields such as title, author, year, and category, improving accuracy and usability. A structured About page explains the project workflow, database design, and technologies used.
+
+The application features a modern user interface designed with an Olive Green, Black, and Gold theme, providing a professional appearance suitable for academic demonstration and portfolio presentation.
 # Library-Management-System-with-influence-of-DBMScription-
 It can be applied in college libraries, school libraries, digital library systems, and book inventory management systems. It serves as a strong example of integrating database design with GUI development to build a practical and scalable information management system.
